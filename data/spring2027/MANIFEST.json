@@ -1,0 +1,19 @@
+{
+  "term": "Spring 2027",
+  "term_id": "8589",
+  "source": "https://classes.berkeley.edu",
+  "fetched_at": "2026-11-18",
+  "notes": [
+    "Raw snapshots of the UC Berkeley Schedule of Classes (classes.berkeley.edu), trimmed of scripts, styles, images and navigation chrome. No content values were edited.",
+    "Search pages: /search/class?search=<course>&f[]=term:8589[&page=N]",
+    "Detail pages: /content/<section-slug>, which list a lecture's associated discussion/lab sections.",
+    "Enrollment numbers and open seats are what the site showed on the fetch date; discussion sections listed with Enrollment Limit 0 or 1 are placeholders the department had not opened yet."
+  ],
+  "files": {
+    "raw/COMPSCI_61A_search_p0.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589",
+    "raw/COMPSCI_61A_search_p1.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=1",
+    "raw/COMPSCI_61A_search_p2.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=2",
+    "raw/COMPSCI_61A_search_p3.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=3",
+    "raw/COMPSCI_61A_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-compsci-61a-001-lec-001"
+  }
+}
