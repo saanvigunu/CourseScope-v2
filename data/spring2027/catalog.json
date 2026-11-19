@@ -1,0 +1,5279 @@
+{
+  "term": "Spring 2027",
+  "source": "https://classes.berkeley.edu",
+  "fetched_at": "2026-11-18",
+  "courses": [
+    {
+      "course": "COMPSCI 61A",
+      "title": "The Structure and Interpretation of Computer Programs",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "28320",
+          "course": "COMPSCI 61A",
+          "section": "001",
+          "kind": "LEC",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "Kay Ousterhout"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Dwinelle 155"
+            }
+          ],
+          "seats_text": "173 Unreserved Seats",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "28492",
+          "course": "COMPSCI 61A",
+          "section": "999",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Su"
+              ],
+              "start": 0,
+              "end": 1,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 269",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-999-dis-999",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28493",
+          "course": "COMPSCI 61A",
+          "section": "999l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Su"
+              ],
+              "start": 0,
+              "end": 1,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 269",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-999l-lab-999l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28321",
+          "course": "COMPSCI 61A",
+          "section": "101l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 40",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-101l-lab-101l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28322",
+          "course": "COMPSCI 61A",
+          "section": "102l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 40",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-102l-lab-102l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28324",
+          "course": "COMPSCI 61A",
+          "section": "105l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-105l-lab-105l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28327",
+          "course": "COMPSCI 61A",
+          "section": "108l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-108l-lab-108l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28328",
+          "course": "COMPSCI 61A",
+          "section": "109l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "The Gateway Building B1023"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-109l-lab-109l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28331",
+          "course": "COMPSCI 61A",
+          "section": "113l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1023"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-113l-lab-113l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28332",
+          "course": "COMPSCI 61A",
+          "section": "114l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-114l-lab-114l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28335",
+          "course": "COMPSCI 61A",
+          "section": "117l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 36",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-117l-lab-117l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28330",
+          "course": "COMPSCI 61A",
+          "section": "111l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 35",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-111l-lab-111l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28329",
+          "course": "COMPSCI 61A",
+          "section": "110l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-110l-lab-110l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28352",
+          "course": "COMPSCI 61A",
+          "section": "118",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Dwinelle 246"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-118-dis-118",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28325",
+          "course": "COMPSCI 61A",
+          "section": "106l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 299"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-106l-lab-106l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28338",
+          "course": "COMPSCI 61A",
+          "section": "101",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 24",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-101-dis-101",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28344",
+          "course": "COMPSCI 61A",
+          "section": "110",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 480,
+              "end": 569,
+              "dates": "",
+              "location": "Social Sciences Building 185"
+            }
+          ],
+          "seats_text": "Open Seats: 24",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-110-dis-110",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28345",
+          "course": "COMPSCI 61A",
+          "section": "111",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Social Sciences Building 185"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-111-dis-111",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28333",
+          "course": "COMPSCI 61A",
+          "section": "115l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-115l-lab-115l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28336",
+          "course": "COMPSCI 61A",
+          "section": "118l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-118l-lab-118l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28343",
+          "course": "COMPSCI 61A",
+          "section": "109",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Etcheverry 3119"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-109-dis-109",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28341",
+          "course": "COMPSCI 61A",
+          "section": "107",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "Dwinelle 179"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-107-dis-107",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28342",
+          "course": "COMPSCI 61A",
+          "section": "108",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 480,
+              "end": 569,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-108-dis-108",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28347",
+          "course": "COMPSCI 61A",
+          "section": "113",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "Etcheverry 3119"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-113-dis-113",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28353",
+          "course": "COMPSCI 61A",
+          "section": "120",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Latimer 105"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-120-dis-120",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28354",
+          "course": "COMPSCI 61A",
+          "section": "121",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "Dwinelle 105"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-121-dis-121",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28339",
+          "course": "COMPSCI 61A",
+          "section": "102",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-102-dis-102",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28340",
+          "course": "COMPSCI 61A",
+          "section": "105",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "Dwinelle 130"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-105-dis-105",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28348",
+          "course": "COMPSCI 61A",
+          "section": "114",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-114-dis-114",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28349",
+          "course": "COMPSCI 61A",
+          "section": "115",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Etcheverry 3119"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-115-dis-115",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28350",
+          "course": "COMPSCI 61A",
+          "section": "116",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Hildebrand B51"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-116-dis-116",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28351",
+          "course": "COMPSCI 61A",
+          "section": "117",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Hildebrand B56"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-117-dis-117",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28643",
+          "course": "COMPSCI 61A",
+          "section": "103l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-103l-lab-103l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28644",
+          "course": "COMPSCI 61A",
+          "section": "104",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Valley Life Sciences 2030"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-104-dis-104",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28645",
+          "course": "COMPSCI 61A",
+          "section": "106",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-106-dis-106",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28646",
+          "course": "COMPSCI 61A",
+          "section": "112l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-112l-lab-112l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28647",
+          "course": "COMPSCI 61A",
+          "section": "119",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Latimer 102"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-119-dis-119",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28648",
+          "course": "COMPSCI 61A",
+          "section": "120l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-120l-lab-120l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28649",
+          "course": "COMPSCI 61A",
+          "section": "121l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-121l-lab-121l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28680",
+          "course": "COMPSCI 61A",
+          "section": "122",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Stanley 179"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-122-dis-122",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28682",
+          "course": "COMPSCI 61A",
+          "section": "123",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-123-dis-123",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28683",
+          "course": "COMPSCI 61A",
+          "section": "123l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-123l-lab-123l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28684",
+          "course": "COMPSCI 61A",
+          "section": "124",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "The Gateway Building B1015"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-124-dis-124",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28685",
+          "course": "COMPSCI 61A",
+          "section": "124l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-124l-lab-124l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28686",
+          "course": "COMPSCI 61A",
+          "section": "125",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-125-dis-125",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28688",
+          "course": "COMPSCI 61A",
+          "section": "126",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-126-dis-126",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28699",
+          "course": "COMPSCI 61A",
+          "section": "127",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Hildebrand B51"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-127-dis-127",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28700",
+          "course": "COMPSCI 61A",
+          "section": "128",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Hildebrand B56"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-128-dis-128",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28732",
+          "course": "COMPSCI 61A",
+          "section": "128l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-128l-lab-128l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28701",
+          "course": "COMPSCI 61A",
+          "section": "129",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Latimer 102"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-129-dis-129",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "29571",
+          "course": "COMPSCI 61A",
+          "section": "129l",
+          "kind": "LAB",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-129l-lab-129l",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28706",
+          "course": "COMPSCI 61A",
+          "section": "134",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-134-dis-134",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28707",
+          "course": "COMPSCI 61A",
+          "section": "135",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-135-dis-135",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28735",
+          "course": "COMPSCI 61A",
+          "section": "139",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-139-dis-139",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28642",
+          "course": "COMPSCI 61A",
+          "section": "103",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1110,
+              "end": 1199,
+              "dates": "",
+              "location": "Cory 293"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-103-dis-103",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        },
+        {
+          "ccn": "28346",
+          "course": "COMPSCI 61A",
+          "section": "112",
+          "kind": "DIS",
+          "title": "The Structure and Interpretation of Computer Programs",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61a-112-dis-112",
+          "term": "Spring 2027",
+          "parent_ccn": "28320"
+        }
+      ]
+    },
+    {
+      "course": "COMPSCI 61B",
+      "title": "Data Structures",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "28355",
+          "course": "COMPSCI 61B",
+          "section": "001",
+          "kind": "LEC",
+          "title": "Data Structures",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "Manuel A Sabin"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Dwinelle 155"
+            }
+          ],
+          "seats_text": null,
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "28503",
+          "course": "COMPSCI 61B",
+          "section": "999",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Su"
+              ],
+              "start": 0,
+              "end": 1,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 198",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-999-dis-999",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28504",
+          "course": "COMPSCI 61B",
+          "section": "999l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Su"
+              ],
+              "start": 0,
+              "end": 1,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 198",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-999l-lab-999l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28553",
+          "course": "COMPSCI 61B",
+          "section": "110",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1140,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 40",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-110-dis-110",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28357",
+          "course": "COMPSCI 61B",
+          "section": "112l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "Hearst Field Annex B1"
+            }
+          ],
+          "seats_text": "Open Seats: 35",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-112l-lab-112l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28388",
+          "course": "COMPSCI 61B",
+          "section": "118",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1140,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1023"
+            }
+          ],
+          "seats_text": "Open Seats: 35",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-118-dis-118",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28364",
+          "course": "COMPSCI 61B",
+          "section": "119l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Hearst Field Annex B1"
+            }
+          ],
+          "seats_text": "Open Seats: 35",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-119l-lab-119l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28377",
+          "course": "COMPSCI 61B",
+          "section": "132l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "F"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "Social Sciences Building 155"
+            }
+          ],
+          "seats_text": "Open Seats: 35",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-132l-lab-132l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28382",
+          "course": "COMPSCI 61B",
+          "section": "112",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Barker 110"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-112-dis-112",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28385",
+          "course": "COMPSCI 61B",
+          "section": "115",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "Valley Life Sciences 2066"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-115-dis-115",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28389",
+          "course": "COMPSCI 61B",
+          "section": "119",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "The Gateway Building B1023"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-119-dis-119",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28370",
+          "course": "COMPSCI 61B",
+          "section": "125l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1139,
+              "dates": "",
+              "location": "Dwinelle 83"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-125l-lab-125l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28371",
+          "course": "COMPSCI 61B",
+          "section": "126l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1139,
+              "dates": "",
+              "location": "Dwinelle 87"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-126l-lab-126l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28404",
+          "course": "COMPSCI 61B",
+          "section": "134",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Barker 110"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-134-dis-134",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28405",
+          "course": "COMPSCI 61B",
+          "section": "135",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "Barker 110"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-135-dis-135",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28361",
+          "course": "COMPSCI 61B",
+          "section": "116l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 27",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-116l-lab-116l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28365",
+          "course": "COMPSCI 61B",
+          "section": "120l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 900,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 27",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-120l-lab-120l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28395",
+          "course": "COMPSCI 61B",
+          "section": "125",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 27",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-125-dis-125",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28398",
+          "course": "COMPSCI 61B",
+          "section": "128",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 960,
+              "end": 1019,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 27",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-128-dis-128",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28399",
+          "course": "COMPSCI 61B",
+          "section": "129",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 27",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-129-dis-129",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28543",
+          "course": "COMPSCI 61B",
+          "section": "105",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "Anthro/Art Practice Bldg 115"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-105-dis-105",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28373",
+          "course": "COMPSCI 61B",
+          "section": "128l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1140,
+              "end": 1259,
+              "dates": "",
+              "location": "Dwinelle 206"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-128l-lab-128l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28400",
+          "course": "COMPSCI 61B",
+          "section": "130",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "Anthro/Art Practice Bldg 115"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-130-dis-130",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28386",
+          "course": "COMPSCI 61B",
+          "section": "116",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "Cory 237"
+            }
+          ],
+          "seats_text": "Open Seats: 24",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-116-dis-116",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28369",
+          "course": "COMPSCI 61B",
+          "section": "124l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1139,
+              "dates": "",
+              "location": "Dwinelle 279"
+            }
+          ],
+          "seats_text": "Open Seats: 22",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-124l-lab-124l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28402",
+          "course": "COMPSCI 61B",
+          "section": "132",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 134"
+            }
+          ],
+          "seats_text": "Open Seats: 22",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-132-dis-132",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28380",
+          "course": "COMPSCI 61B",
+          "section": "135l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "F"
+              ],
+              "start": 660,
+              "end": 779,
+              "dates": "",
+              "location": "Dwinelle 233"
+            }
+          ],
+          "seats_text": "Open Seats: 19",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-135l-lab-135l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28383",
+          "course": "COMPSCI 61B",
+          "section": "113",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-113-dis-113",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28384",
+          "course": "COMPSCI 61B",
+          "section": "114",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 225"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-114-dis-114",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28367",
+          "course": "COMPSCI 61B",
+          "section": "122l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 900,
+              "end": 1019,
+              "dates": "",
+              "location": "Dwinelle 211"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-122l-lab-122l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28394",
+          "course": "COMPSCI 61B",
+          "section": "124",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "Dwinelle 211"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-124-dis-124",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28396",
+          "course": "COMPSCI 61B",
+          "section": "126",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Dwinelle 211"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-126-dis-126",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28376",
+          "course": "COMPSCI 61B",
+          "section": "131l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "F"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "Mulford 240"
+            }
+          ],
+          "seats_text": "Open Seats: 18",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-131l-lab-131l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28381",
+          "course": "COMPSCI 61B",
+          "section": "111",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-111-dis-111",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28356",
+          "course": "COMPSCI 61B",
+          "section": "111l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "The Gateway Building B1026"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-111l-lab-111l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28359",
+          "course": "COMPSCI 61B",
+          "section": "114l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 660,
+              "end": 779,
+              "dates": "",
+              "location": "Moffitt Library 103"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-114l-lab-114l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28360",
+          "course": "COMPSCI 61B",
+          "section": "115l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "Latimer 105"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-115l-lab-115l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28362",
+          "course": "COMPSCI 61B",
+          "section": "117l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Dwinelle 204"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-117l-lab-117l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28363",
+          "course": "COMPSCI 61B",
+          "section": "118l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Dwinelle 210"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-118l-lab-118l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28391",
+          "course": "COMPSCI 61B",
+          "section": "121",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "",
+              "location": "Dwinelle 204"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-121-dis-121",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28366",
+          "course": "COMPSCI 61B",
+          "section": "121l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 900,
+              "end": 1019,
+              "dates": "",
+              "location": "Etcheverry 3111"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-121l-lab-121l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28392",
+          "course": "COMPSCI 61B",
+          "section": "122",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-122-dis-122",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28393",
+          "course": "COMPSCI 61B",
+          "section": "123",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "Dwinelle 210"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-123-dis-123",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28397",
+          "course": "COMPSCI 61B",
+          "section": "127",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 211"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-127-dis-127",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28374",
+          "course": "COMPSCI 61B",
+          "section": "129l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1140,
+              "end": 1259,
+              "dates": "",
+              "location": "Dwinelle 210"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-129l-lab-129l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28379",
+          "course": "COMPSCI 61B",
+          "section": "134l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "F"
+              ],
+              "start": 660,
+              "end": 779,
+              "dates": "",
+              "location": "Mulford 240"
+            }
+          ],
+          "seats_text": "Open Seats: 17",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-134l-lab-134l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28554",
+          "course": "COMPSCI 61B",
+          "section": "110l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 540,
+              "end": 659,
+              "dates": "",
+              "location": "Dwinelle 104"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-110l-lab-110l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28358",
+          "course": "COMPSCI 61B",
+          "section": "113l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 660,
+              "end": 779,
+              "dates": "",
+              "location": "Dwinelle 104"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-113l-lab-113l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28390",
+          "course": "COMPSCI 61B",
+          "section": "120",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "",
+              "location": "Dwinelle 104"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-120-dis-120",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28372",
+          "course": "COMPSCI 61B",
+          "section": "127l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Th"
+              ],
+              "start": 1140,
+              "end": 1259,
+              "dates": "",
+              "location": "Dwinelle 88"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-127l-lab-127l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28401",
+          "course": "COMPSCI 61B",
+          "section": "131",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 104"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-131-dis-131",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28403",
+          "course": "COMPSCI 61B",
+          "section": "133",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "Dwinelle 104"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-133-dis-133",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28387",
+          "course": "COMPSCI 61B",
+          "section": "117",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 13",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-117-dis-117",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28535",
+          "course": "COMPSCI 61B",
+          "section": "101",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-101-dis-101",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28536",
+          "course": "COMPSCI 61B",
+          "section": "101l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Hildebrand B56"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-101l-lab-101l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28538",
+          "course": "COMPSCI 61B",
+          "section": "102l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Hildebrand B51"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-102l-lab-102l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28539",
+          "course": "COMPSCI 61B",
+          "section": "103",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-103-dis-103",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28540",
+          "course": "COMPSCI 61B",
+          "section": "103l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 780,
+              "end": 899,
+              "dates": "",
+              "location": "Wheeler 104"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-103l-lab-103l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28541",
+          "course": "COMPSCI 61B",
+          "section": "104",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Anthro/Art Practice Bldg 115"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-104-dis-104",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28542",
+          "course": "COMPSCI 61B",
+          "section": "104l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 960,
+              "end": 1079,
+              "dates": "",
+              "location": "Cory 237"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-104l-lab-104l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28544",
+          "course": "COMPSCI 61B",
+          "section": "105l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 960,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 233"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-105l-lab-105l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28545",
+          "course": "COMPSCI 61B",
+          "section": "106",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "The Gateway Building B1019"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-106-dis-106",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28546",
+          "course": "COMPSCI 61B",
+          "section": "106l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 960,
+              "end": 1079,
+              "dates": "",
+              "location": "Etcheverry 3119"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-106l-lab-106l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28547",
+          "course": "COMPSCI 61B",
+          "section": "107",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "Barker 110"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-107-dis-107",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28548",
+          "course": "COMPSCI 61B",
+          "section": "107l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1080,
+              "end": 1199,
+              "dates": "",
+              "location": "Anthro/Art Practice Bldg 115"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-107l-lab-107l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28549",
+          "course": "COMPSCI 61B",
+          "section": "108",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "Barker 110"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-108-dis-108",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28550",
+          "course": "COMPSCI 61B",
+          "section": "108l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1080,
+              "end": 1199,
+              "dates": "",
+              "location": "Genetics & Plant Bio 103"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-108l-lab-108l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28551",
+          "course": "COMPSCI 61B",
+          "section": "109",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "Cory 285"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-109-dis-109",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28552",
+          "course": "COMPSCI 61B",
+          "section": "109l",
+          "kind": "LAB",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W"
+              ],
+              "start": 1080,
+              "end": 1199,
+              "dates": "",
+              "location": "Dwinelle 109"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-109l-lab-109l",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        },
+        {
+          "ccn": "28537",
+          "course": "COMPSCI 61B",
+          "section": "102",
+          "kind": "DIS",
+          "title": "Data Structures",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M"
+              ],
+              "start": 1200,
+              "end": 1259,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-61b-102-dis-102",
+          "term": "Spring 2027",
+          "parent_ccn": "28355"
+        }
+      ]
+    },
+    {
+      "course": "COMPSCI 70",
+      "title": "Discrete Mathematics and Probability Theory",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "28417",
+          "course": "COMPSCI 70",
+          "section": "001",
+          "kind": "LEC",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "Avishay Tal",
+            "Satish B Rao"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Dwinelle 155"
+            }
+          ],
+          "seats_text": null,
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "28496",
+          "course": "COMPSCI 70",
+          "section": "999",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [],
+              "start": null,
+              "end": null,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 181",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-999-dis-999",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28420",
+          "course": "COMPSCI 70",
+          "section": "103",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "The Gateway Building B1016"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-103-dis-103",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28424",
+          "course": "COMPSCI 70",
+          "section": "107",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Wheeler 104"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-107-dis-107",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28425",
+          "course": "COMPSCI 70",
+          "section": "108",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-108-dis-108",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28427",
+          "course": "COMPSCI 70",
+          "section": "110",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1140,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-110-dis-110",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28428",
+          "course": "COMPSCI 70",
+          "section": "111",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "Cory 540AB"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-111-dis-111",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28429",
+          "course": "COMPSCI 70",
+          "section": "112",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1200,
+              "end": 1259,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-112-dis-112",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28432",
+          "course": "COMPSCI 70",
+          "section": "115",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "The Gateway Building B1023"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-115-dis-115",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28434",
+          "course": "COMPSCI 70",
+          "section": "117",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1140,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1026"
+            }
+          ],
+          "seats_text": "Open Seats: 32",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-117-dis-117",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28418",
+          "course": "COMPSCI 70",
+          "section": "101",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "Cory 299"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-101-dis-101",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28419",
+          "course": "COMPSCI 70",
+          "section": "102",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "Cory 299"
+            }
+          ],
+          "seats_text": "Open Seats: 25",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-102-dis-102",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28423",
+          "course": "COMPSCI 70",
+          "section": "106",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Cory 531"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-106-dis-106",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28431",
+          "course": "COMPSCI 70",
+          "section": "114",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Cory 299"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-114-dis-114",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "28433",
+          "course": "COMPSCI 70",
+          "section": "116",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "Cory 299"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-116-dis-116",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "29899",
+          "course": "COMPSCI 70",
+          "section": "120",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "",
+              "location": "Hearst Field Annex B1"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-120-dis-120",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "29900",
+          "course": "COMPSCI 70",
+          "section": "121",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 1200,
+              "end": 1259,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-121-dis-121",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "29901",
+          "course": "COMPSCI 70",
+          "section": "122",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 1140,
+              "end": 1199,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-122-dis-122",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "29902",
+          "course": "COMPSCI 70",
+          "section": "123",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-123-dis-123",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        },
+        {
+          "ccn": "29903",
+          "course": "COMPSCI 70",
+          "section": "124",
+          "kind": "DIS",
+          "title": "Discrete Mathematics and Probability Theory",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "W",
+                "F"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "The Gateway Building B1012"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-compsci-70-124-dis-124",
+          "term": "Spring 2027",
+          "parent_ccn": "28417"
+        }
+      ]
+    },
+    {
+      "course": "DATA C8",
+      "title": "Foundations of Data Science",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "31147",
+          "course": "DATA C8",
+          "section": "001",
+          "kind": "LEC",
+          "title": "Foundations of Data Science",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "John DeNero",
+            "Ramesh Sridharan"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Wheeler 150"
+            }
+          ],
+          "seats_text": null,
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-data-c8-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "31389",
+          "course": "DATA C8",
+          "section": "002",
+          "kind": "LEC",
+          "title": "Foundations of Data Science",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "John DeNero",
+            "Ramesh Sridharan"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Internet/Online"
+            }
+          ],
+          "seats_text": "147 Unreserved Seats",
+          "instruction_mode": "Online",
+          "detail_path": "/content/2027-spring-data-c8-002-lec-002",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "31148",
+          "course": "DATA C8",
+          "section": "999l",
+          "kind": "LAB",
+          "title": "Foundations of Data Science",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [],
+              "start": null,
+              "end": null,
+              "dates": "",
+              "location": null
+            }
+          ],
+          "seats_text": "Open Seats: 630",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-data-c8-999l-lab-999l",
+          "term": "Spring 2027",
+          "parent_ccn": "31147"
+        }
+      ]
+    },
+    {
+      "course": "MATH 54",
+      "title": "Linear Algebra and Differential Equations",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "23276",
+          "course": "MATH 54",
+          "section": "001",
+          "kind": "LEC",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "Zvezdelina E Stankova"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 660,
+              "end": 719,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Wheeler 150"
+            }
+          ],
+          "seats_text": "253 Unreserved Seats",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "21850",
+          "course": "MATH 54",
+          "section": "002",
+          "kind": "LEC",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "Jon A Wilkening"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 930,
+              "end": 1019,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Wheeler 150"
+            }
+          ],
+          "seats_text": "1 Unreserved Seats",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-002-lec-002",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "21861",
+          "course": "MATH 54",
+          "section": "111",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 480,
+              "end": 539,
+              "dates": "",
+              "location": "Etcheverry 3113"
+            }
+          ],
+          "seats_text": "Open Seats: 34",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-111-dis-111",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "22771",
+          "course": "MATH 54",
+          "section": "117",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Genetics & Plant Bio 103"
+            }
+          ],
+          "seats_text": "Open Seats: 30",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-117-dis-117",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21854",
+          "course": "MATH 54",
+          "section": "104",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Dwinelle 229"
+            }
+          ],
+          "seats_text": "Open Seats: 28",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-104-dis-104",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21865",
+          "course": "MATH 54",
+          "section": "115",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 960,
+              "end": 1019,
+              "dates": "",
+              "location": "Genetics & Plant Bio 107"
+            }
+          ],
+          "seats_text": "Open Seats: 28",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-115-dis-115",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21852",
+          "course": "MATH 54",
+          "section": "102",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 480,
+              "end": 539,
+              "dates": "",
+              "location": "Dwinelle 223"
+            }
+          ],
+          "seats_text": "Open Seats: 26",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-102-dis-102",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21853",
+          "course": "MATH 54",
+          "section": "103",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Wheeler 220"
+            }
+          ],
+          "seats_text": "Open Seats: 23",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-103-dis-103",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21864",
+          "course": "MATH 54",
+          "section": "114",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Genetics & Plant Bio 107"
+            }
+          ],
+          "seats_text": "Open Seats: 23",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-114-dis-114",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21863",
+          "course": "MATH 54",
+          "section": "113",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Genetics & Plant Bio 103"
+            }
+          ],
+          "seats_text": "Open Seats: 21",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-113-dis-113",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21860",
+          "course": "MATH 54",
+          "section": "110",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "",
+              "location": "Giannini 141"
+            }
+          ],
+          "seats_text": "Open Seats: 20",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-110-dis-110",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21866",
+          "course": "MATH 54",
+          "section": "116",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 960,
+              "end": 1019,
+              "dates": "",
+              "location": "Wheeler 200"
+            }
+          ],
+          "seats_text": "Open Seats: 15",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-116-dis-116",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21859",
+          "course": "MATH 54",
+          "section": "109",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "",
+              "location": "Wheeler 20"
+            }
+          ],
+          "seats_text": "Open Seats: 8",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-109-dis-109",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21858",
+          "course": "MATH 54",
+          "section": "108",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "Cory 289"
+            }
+          ],
+          "seats_text": "Open Seats: 6",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-108-dis-108",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21857",
+          "course": "MATH 54",
+          "section": "107",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "Haviland 12"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-107-dis-107",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21855",
+          "course": "MATH 54",
+          "section": "105",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "Morgan 109"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-105-dis-105",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21856",
+          "course": "MATH 54",
+          "section": "106",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 600,
+              "end": 659,
+              "dates": "",
+              "location": "Dwinelle 182"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-106-dis-106",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21862",
+          "course": "MATH 54",
+          "section": "112",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "Wheeler 220"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-112-dis-112",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "22772",
+          "course": "MATH 54",
+          "section": "118",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W",
+                "F"
+              ],
+              "start": 720,
+              "end": 779,
+              "dates": "",
+              "location": "Dwinelle 219"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-118-dis-118",
+          "term": "Spring 2027",
+          "parent_ccn": "23276"
+        },
+        {
+          "ccn": "21871",
+          "course": "MATH 54",
+          "section": "208",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 480,
+              "end": 569,
+              "dates": "",
+              "location": "Evans 740"
+            }
+          ],
+          "seats_text": "Open Seats: 1",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-208-dis-208",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21867",
+          "course": "MATH 54",
+          "section": "201",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 480,
+              "end": 569,
+              "dates": "",
+              "location": "Dwinelle 229"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-201-dis-201",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21868",
+          "course": "MATH 54",
+          "section": "202",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 480,
+              "end": 569,
+              "dates": "",
+              "location": "Dwinelle 215"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-202-dis-202",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "23200",
+          "course": "MATH 54",
+          "section": "203",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Dwinelle 229"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-203-dis-203",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "23201",
+          "course": "MATH 54",
+          "section": "204",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 570,
+              "end": 659,
+              "dates": "",
+              "location": "Wheeler 20"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-204-dis-204",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21869",
+          "course": "MATH 54",
+          "section": "205",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "Etcheverry 3107"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-205-dis-205",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21870",
+          "course": "MATH 54",
+          "section": "206",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "Cory 241"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-206-dis-206",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "23202",
+          "course": "MATH 54",
+          "section": "207",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Cory 289"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-207-dis-207",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21872",
+          "course": "MATH 54",
+          "section": "209",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Genetics & Plant Bio 107"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-209-dis-209",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21873",
+          "course": "MATH 54",
+          "section": "210",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Genetics & Plant Bio 107"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-210-dis-210",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21874",
+          "course": "MATH 54",
+          "section": "211",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Cory 289"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-211-dis-211",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21875",
+          "course": "MATH 54",
+          "section": "212",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 840,
+              "end": 929,
+              "dates": "",
+              "location": "Hearst Field Annex B5"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-212-dis-212",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21876",
+          "course": "MATH 54",
+          "section": "213",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Wheeler 200"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-213-dis-213",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21877",
+          "course": "MATH 54",
+          "section": "214",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Dwinelle 229"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-214-dis-214",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21878",
+          "course": "MATH 54",
+          "section": "215",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1109,
+              "dates": "",
+              "location": "Etcheverry 3113"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-215-dis-215",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21879",
+          "course": "MATH 54",
+          "section": "216",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 660,
+              "end": 749,
+              "dates": "",
+              "location": "Evans 740"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-216-dis-216",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        },
+        {
+          "ccn": "21880",
+          "course": "MATH 54",
+          "section": "217",
+          "kind": "DIS",
+          "title": "Linear Algebra and Differential Equations",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 750,
+              "end": 839,
+              "dates": "",
+              "location": "Evans 740"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-math-54-217-dis-217",
+          "term": "Spring 2027",
+          "parent_ccn": "21850"
+        }
+      ]
+    },
+    {
+      "course": "ECON 1",
+      "title": "Introduction to Economics",
+      "units": 4.0,
+      "sections": [
+        {
+          "ccn": "21392",
+          "course": "ECON 1",
+          "section": "001",
+          "kind": "LEC",
+          "title": "Introduction to Economics",
+          "units": 4.0,
+          "units_text": "4",
+          "instructors": [
+            "James D Campbell"
+          ],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 780,
+              "end": 839,
+              "dates": "Jan 19, 2027 - May 07, 2027",
+              "location": "Wheeler 150"
+            }
+          ],
+          "seats_text": "No Open Seats",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-001-lec-001",
+          "term": "Spring 2027",
+          "parent_ccn": null
+        },
+        {
+          "ccn": "21393",
+          "course": "ECON 1",
+          "section": "101",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 960,
+              "end": 1019,
+              "dates": "",
+              "location": "Tan 180"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-101-dis-101",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21394",
+          "course": "ECON 1",
+          "section": "102",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Dwinelle 88"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-102-dis-102",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21395",
+          "course": "ECON 1",
+          "section": "103",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Dwinelle 88"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-103-dis-103",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21396",
+          "course": "ECON 1",
+          "section": "104",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 840,
+              "end": 899,
+              "dates": "",
+              "location": "Dwinelle 182"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-104-dis-104",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21397",
+          "course": "ECON 1",
+          "section": "105",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Dwinelle 182"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-105-dis-105",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21398",
+          "course": "ECON 1",
+          "section": "106",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 960,
+              "end": 1019,
+              "dates": "",
+              "location": "Social Sciences Building 126"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-106-dis-106",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21399",
+          "course": "ECON 1",
+          "section": "107",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Haviland 12"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-107-dis-107",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21400",
+          "course": "ECON 1",
+          "section": "108",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 900,
+              "end": 959,
+              "dates": "",
+              "location": "Haviland 12"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-108-dis-108",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21401",
+          "course": "ECON 1",
+          "section": "109",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 1020,
+              "end": 1079,
+              "dates": "",
+              "location": "Hearst Mining 310"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-109-dis-109",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21402",
+          "course": "ECON 1",
+          "section": "110",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "Tu",
+                "Th"
+              ],
+              "start": 540,
+              "end": 599,
+              "dates": "",
+              "location": "Wheeler 300"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-110-dis-110",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        },
+        {
+          "ccn": "21403",
+          "course": "ECON 1",
+          "section": "111",
+          "kind": "DIS",
+          "title": "Introduction to Economics",
+          "units": 0.0,
+          "units_text": null,
+          "instructors": [],
+          "meetings": [
+            {
+              "days": [
+                "M",
+                "W"
+              ],
+              "start": 1080,
+              "end": 1139,
+              "dates": "",
+              "location": "Wheeler 102"
+            }
+          ],
+          "seats_text": "Open Seats: 0",
+          "instruction_mode": "In-Person Instruction",
+          "detail_path": "/content/2027-spring-econ-1-111-dis-111",
+          "term": "Spring 2027",
+          "parent_ccn": "21392"
+        }
+      ]
+    }
+  ]
+            
