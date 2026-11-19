@@ -7,13 +7,31 @@
     "Raw snapshots of the UC Berkeley Schedule of Classes (classes.berkeley.edu), trimmed of scripts, styles, images and navigation chrome. No content values were edited.",
     "Search pages: /search/class?search=<course>&f[]=term:8589[&page=N]",
     "Detail pages: /content/<section-slug>, which list a lecture's associated discussion/lab sections.",
-    "Enrollment numbers and open seats are what the site showed on the fetch date; discussion sections listed with Enrollment Limit 0 or 1 are placeholders the department had not opened yet."
+    "Enrollment numbers and open seats are what the site showed on the fetch date; discussion sections listed with Enrollment Limit 0 or 1 are placeholders the department had not opened yet.",
+    "DATA C8 had only placeholder (999L) lab sections published for Spring 2027 on the fetch date; its discussions/labs were not posted yet."
   ],
   "files": {
     "raw/COMPSCI_61A_search_p0.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589",
     "raw/COMPSCI_61A_search_p1.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=1",
     "raw/COMPSCI_61A_search_p2.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=2",
     "raw/COMPSCI_61A_search_p3.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061A&f[]=term:8589&page=3",
-    "raw/COMPSCI_61A_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-compsci-61a-001-lec-001"
+    "raw/COMPSCI_61A_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-compsci-61a-001-lec-001",
+    "raw/COMPSCI_61B_search_p0.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061B&f[]=term:8589",
+    "raw/COMPSCI_61B_search_p1.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2061B&f[]=term:8589&page=1",
+    "raw/COMPSCI_70_search_p0.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2070&f[]=term:8589",
+    "raw/COMPSCI_70_search_p1.html": "https://classes.berkeley.edu/search/class?search=COMPSCI%2070&f[]=term:8589&page=1",
+    "raw/DATA_C8_search_p0.html": "https://classes.berkeley.edu/search/class?search=DATA%20C8&f[]=term:8589",
+    "raw/DATA_C8_search_p1.html": "https://classes.berkeley.edu/search/class?search=DATA%20C8&f[]=term:8589&page=1",
+    "raw/MATH_54_search_p0.html": "https://classes.berkeley.edu/search/class?search=MATH%2054&f[]=term:8589",
+    "raw/MATH_54_search_p1.html": "https://classes.berkeley.edu/search/class?search=MATH%2054&f[]=term:8589&page=1",
+    "raw/ECON_1_search_p0.html": "https://classes.berkeley.edu/search/class?search=ECON%201&f[]=term:8589",
+    "raw/ECON_1_search_p1.html": "https://classes.berkeley.edu/search/class?search=ECON%201&f[]=term:8589&page=1",
+    "raw/COMPSCI_61B_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-compsci-61b-001-lec-001",
+    "raw/COMPSCI_70_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-compsci-70-001-lec-001",
+    "raw/DATA_C8_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-data-c8-001-lec-001",
+    "raw/DATA_C8_002_detail.html": "https://classes.berkeley.edu/content/2027-spring-data-c8-002-lec-002",
+    "raw/MATH_54_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-math-54-001-lec-001",
+    "raw/MATH_54_002_detail.html": "https://classes.berkeley.edu/content/2027-spring-math-54-002-lec-002",
+    "raw/ECON_1_001_detail.html": "https://classes.berkeley.edu/content/2027-spring-econ-1-001-lec-001"
   }
 }
